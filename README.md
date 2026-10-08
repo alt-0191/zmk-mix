@@ -92,7 +92,7 @@ The current keymap includes four main layers:
 
 External modules currently referenced by `west.yml`:
 
-* `zmkfirmware/zmk` at `v0.3`
+* `ph-design/zmks` at `v0.3-lts` (our ZMK fork, "ZMKs")
 * `petejohanson/cirque-input-module`
 * `mctechnology17/zmk-nice-oled`
 
